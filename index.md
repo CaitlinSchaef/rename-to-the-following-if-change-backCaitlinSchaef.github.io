@@ -1,3 +1,8 @@
+---
+title: Caitlin Schaeffer's WebDevelopment Blog
+permalink: /
+layout: default
+---
 # Caitlin Schaeffer's Web Development Blog 
 ! [profile] (img) align: left
 ## Feel free to connect with me on [LinkedIn] (www.linkedin.com/in/caitlin-schaeffer-125668153)!
