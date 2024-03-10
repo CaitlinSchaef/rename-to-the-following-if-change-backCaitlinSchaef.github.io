@@ -5,5 +5,5 @@ body {
     background-color: rgb(105,162,132);
 background-color: linear-gradient(90deg, rgba(105,162,132,1) 29%, rgba(27,72,52,1) 61%);
 font: helvetica 
-text-align: center
+text-align center
 }
